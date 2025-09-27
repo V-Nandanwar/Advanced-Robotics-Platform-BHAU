@@ -26,4 +26,4 @@ I engineered a custom, multi-stage power architecture to solve this. The system 
 
 The complete power architecture is detailed in the diagram below:
 
-![BHAU Power Distribution Architecture](Power_System_Flowchart.png)
+![BHAU Power Distribution Architecture](Power_System_Architecture.png)
